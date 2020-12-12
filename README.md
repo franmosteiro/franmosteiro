@@ -9,5 +9,5 @@ Do you want to get in touch? Here a few links 😄
 <p align="center">
 <a href="https://franmosteiro.github.io/" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/246/246715.svg" alt="https://franmosteiro.github.io/" height="20" width="20" /></a>  
 <a href="https://twitter.com/franmosteiro" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="https://twitter.com/franmosteiro" height="20" width="20" /></a>	
-<a href="https://linkedin.com/in/www.linkedin.com/in/franmosteiro" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="www.linkedin.com/in/franmosteiro" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/franmosteiro" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="www.linkedin.com/in/franmosteiro" height="20" width="20" /></a>
 </p>
