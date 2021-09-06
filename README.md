@@ -1,7 +1,7 @@
 <h3>Hi there 👋 </h3>
 <hr/>
 <h3 align="center">I'm Fran Mosteiro</h3>
-<h3 align="center">Product developer at <a href="https://holaluz.com" target="blank">@holaluz</a> where I work to connect the world to green energy</h3>
+<h3 align="center">Product developer currently having a break between jobs ^_^</h3>
 <hr/>
 <span align="center">
 Do you want to get in touch? Here a few links 😄
