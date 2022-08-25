@@ -1,7 +1,7 @@
 <h3>Hi there 👋 </h3>
 <hr/>
 <h3 align="center">I'm Fran Mosteiro</h3>
-<h3 align="center">Product developer at <a href="https://github.com/sequra" target="blank">@sequra</a> where I work towards humanising financial services</h3>
+<h3 align="center">Director of Engineering at <a href="https://github.com/sequra" target="blank">@seQura</a> where I work towards humanising financial services</h3>
 <hr/>
 <span align="center">
 Do you want to get in touch? Here a few links 😄
